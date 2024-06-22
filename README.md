@@ -5,11 +5,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjin-21&hide=javascript,html&langs_count=3)](https://github.com/yunjin-21)
 
 
-  ### Skill🚀 :four_leaf_clover:
+  ### Tech Stack 🚀 :four_leaf_clover:
+  <p>
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-<br/><br/>
+   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+  </p>
 
 
 ### 📫 Contact 
