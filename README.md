@@ -1,7 +1,9 @@
-## Hi there👋 I'm Lee yunjin.
-😄I love koala and lemon
+# Hi there, I'm Yunjin. <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+
+<img align="right" alt="GIF" height="160px" src="![image](https://github.com/yunjin-21/yunjin-21/assets/96698362/5a7acca8-de44-463b-9ac6-d475326fe3ae)" />
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dq-qqq&hide=javascript,html&langs_count=3)](https://github.com/yunjin-21)
 
 <!--
 **yunjin-21/yunjin-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
