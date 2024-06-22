@@ -5,10 +5,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjin-21&hide=javascript,html&langs_count=3)](https://github.com/yunjin-21)
 
 ### 🚀 Available Skills✨
-## Langauage
-"https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"
-## Stack
-"https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
+
+
 ### 📫 Contact 
 <p>
 <a href="mailto:yuncom21@ewhain.net"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
