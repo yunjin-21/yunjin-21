@@ -2,8 +2,16 @@
 
 <img align="right" alt="GIF" height="160px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWl5b3FtdXQxeWh3MHZyMHoxYmNwNG5xZm55cjhydDVlYmZuaDllbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KL5rlX6dGjwJO/giphy.gif" />
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjin-21&hide=javascript,html&langs_count=3)](https://github.com/yunjin-21)
+
+### 📫 Contact 
+<p>
+<a href="mailto:yuncom21@ewhain.net"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+<a href="https://jini-magiclamp.tistory.com"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+
+<a href="https://www.linkedin.com/in/%EC%9D%B4%EC%9C%A4%EC%A7%84-%EC%97%98%ED%85%8D%EA%B3%B5%EA%B3%BC%EB%8C%80%ED%95%99-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%ED%95%99%EB%B6%80-76348725b/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)"/></a>
+</p>
 
 <!--
 **yunjin-21/yunjin-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
