@@ -16,7 +16,7 @@
   </p>
 
 ### 🖥️ Experiences
-- AWS Cloud Clubs 2nd Member | 2024.03-present
+- AWS Cloud Clubs Ewha 2nd Member | 2024.03-present
 - Ewha Womans University SW Start-up Club UNIS 4th Member | 2023.08-2024.02
 - Google Developer Student Clubs Ewha 4th Member | 2022.09-2023.08
 - Ewha WI-Corps Start-up Competition | 2023.01-2023.02
