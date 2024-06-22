@@ -4,8 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjin-21&hide=javascript,html&langs_count=3)](https://github.com/yunjin-21)
 
-
-  ### :four_leaf_clover: Tech Stack  
+### :four_leaf_clover: Tech Stack  
   <p>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
@@ -16,6 +15,13 @@
     <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=Amazon%20S3&logoColor=white"/>
   </p>
 
+### 🖥️ Experiences
+- AWS Cloud Clubs 2nd Member | 2024.03-present
+- Ewha Womans University SW Start-up Club UNIS 4th Member | 2023.08-2024.02
+- Google Developer Student Clubs Ewha 4th Member | 2022.09-2023.08
+- Ewha WI-Corps Start-up Competition | 2023.01-2023.02
+- UMC Ewha (University Make us Challenge) 3rd Server Member | 2022.09-2023.01
+- Silicon Valley Internship Program organized by the SW Centered University | 2022.07-2022.08
 
 ### 📫 Contact 
 <p>
@@ -28,7 +34,7 @@
 
 <!--
 **yunjin-21/yunjin-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+🚀🚀
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
