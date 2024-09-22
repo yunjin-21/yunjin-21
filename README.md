@@ -1,19 +1,20 @@
 # Hi there, I'm Yunjin. <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWl5b3FtdXQxeWh3MHZyMHoxYmNwNG5xZm55cjhydDVlYmZuaDllbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KL5rlX6dGjwJO/giphy.gif" />
+<img align="right" alt="GIF" height="300px" width="250px" src="https://github.com/user-attachments/assets/e8fa1627-be38-4bed-9771-8dc2a45d88b0" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjin-21&hide=javascript,html&langs_count=3)](https://github.com/yunjin-21)
 
 ### :four_leaf_clover: Tech Stack  
-  <p>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=Amazon%20EC2&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat&logo=Amazon%20RDS&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=Amazon%20S3&logoColor=white"/>
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=Amazon%20EC2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat&logo=Amazon%20RDS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=Amazon%20S3&logoColor=white"/>
+</p>
+
 
 ### 🖥️ Experiences
 - AWS Cloud Clubs Ewha 2nd Member | 2024.03-present
