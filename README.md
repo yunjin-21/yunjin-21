@@ -10,13 +10,11 @@
   <!-- gmail -->
   <img src="https://img.shields.io/badge/yunjini802@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </p>
-<!-- About me badge -->
-<p align='center'><strong>👋About me</strong></p>
+<!-- Tech blog badge -->
+<p align='center'><strong>🌱Tech Blog</strong></p>
 <p align='center'>
   <!-- Tistory -->
   <a href="https://jini-magiclamp.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
-  <!-- Velog -->
-  <a href="https://velog.io/@ryan21/posts"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 </p>
 
 <!-- 기술 스택 -->
