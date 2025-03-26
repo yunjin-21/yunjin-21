@@ -37,11 +37,6 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
 
-<!-- 알고리즘 역량 -->
-## ⚙️ Algorithm
-<!-- solved.ac 프로필 -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyj0612)](https://solved.ac/lyj0612)
-
 <!-- 경험 -->
 ## 🏃 Experiences
 <ul>
